@@ -1,4 +1,4 @@
---
+-- here's a change from Lab #6 Step 1
 -- PostgreSQL database dump
 --
 
